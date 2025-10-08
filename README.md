@@ -8,7 +8,7 @@ A minimal and heartfelt website to celebrate the beautiful bond of **Rakshabandh
 
 ## 🔗 Visit Website
 
-👉 [**Click Here to View**](https://itz-murali.github.io/Happy-Rakshabandhan/)
+👉 [**Click Here to View**](https://rakshabandhan-rho-eight.vercel.app/)
 
 ---
 
